@@ -1,0 +1,3 @@
+# Swift Function Argument Type Mismatch
+
+This repository demonstrates a common error in Swift: passing an incorrect data type to a function.  The example shows a function that calculates the area of a rectangle.  The function expects `Double` values for length and width.  The code then shows a correct usage and an incorrect usage, resulting in a compile-time error.  The solution demonstrates how to properly handle type checking and avoid this error.
